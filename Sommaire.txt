@@ -1,0 +1,19 @@
+COURS D'INITIATION A GIT
+
+I. Notions de base
+1. Théoriquement qu’est-ce que
+2. Git, a quoi ca sert ? Comment
+3. l’utiliser de manière professionnel ?
+
+II. Commandes de bases
+1. Introduction a l’utilisation de
+2. Git; De la création d’un dépôt
+3. local jusqu’a la mise en ligne d’un code.
+
+III. Commandes intermédiaires
+1. L’utilisation des branches, et
+2. la résolution des conflits.
+
+IV. Commandes avancées
+1. Récupération d’une ancienne
+2. version de code.
